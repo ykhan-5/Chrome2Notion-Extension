@@ -1,0 +1,11 @@
+{
+  "name" : "notion Pipeline",
+  "version" : "1.0.0",
+  "manifest_version" : 3,
+  "description" : "Extension which allows Yusuf to quickly add pages to a Notion Database",
+  "permissions": ["tabs"],
+  "action" : {
+    "default_popup" : "index.html"
+  }
+
+}
